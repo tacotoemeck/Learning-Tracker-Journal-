@@ -1,0 +1,67 @@
+15/9/19 London
+work day
+
+read An Ilustrated (and Musical ) Guide to Map, Reduce and Filter Array Methods from CSS Tricks
+- css-tricks.com/an-ilustrated-guide-to-map-reduce-and-filter-array-methods/
+
+solved Make a Person from Introduction to the Intermediate Algorithm Scripting Challenges in Javascript Algorithms And Data Structures Certification (300 hours) from FreeCodeCamp
+https://github.com/tacotoemeck/FreeCodeCamp---JavaScript-Intermediate-Algorithm-Scripting/blob/master/argumentOptions.js
+
+solved level 7 kata on codewars 
+https://github.com/tacotoemeck/codewars-kyu7/blob/master/sortOutTheMenFromBoys.js
+
+personal:
+phisically drained after a weekend on the market
+
+
+16/9/19
+day off ( 2 hours work in the morning)
+
+attended Founders and Coders bootcamp info session
+
+solved level 6 kata on codewars 
+https://github.com/tacotoemeck/codewars-6kyu/blob/master/MultiplesOf3or5.js
+
+solved level 7 kata on codewars ( definitely overcomplicated it at first - tried solving it without giving it much thought first - MISTAKE. Turns out solution was easy AF)
+https://github.com/tacotoemeck/codewars-kyu7/blob/master/sumOfoddNumbers.js
+
+solved Map the Debris from Intermediate Algorithm Scripting at FreeCodeCamp
+thoughts: once I worked out the formula and how to apply it, whole exercise got suprisingly easy. Fun way to use Math. functions
+https://github.com/tacotoemeck/FreeCodeCamp---JavaScript-Intermediate-Algorithm-Scripting/blob/master/mapTheDebris.js
+
+solved Palindrome Checker from Intermediate Algorithm Scripting at FreeCodeCamp
+https://github.com/tacotoemeck/JavaScript-Algorithms-and-Data-Structures-Projects/blob/master/PalindromeChecker.js
+
+solved Roman Numeral Converter from Intermediate Algorithm Scripting at FreeCodeCamp
+https://github.com/tacotoemeck/JavaScript-Algorithms-and-Data-Structures-Projects/blob/master/RomanNumeralConverter.js
+
+solved Caesars Cipher from Intermediate Algorithm Scripting at FreeCodeCamp
+https://github.com/tacotoemeck/JavaScript-Algorithms-and-Data-Structures-Projects/blob/master/CaesarsCipher.js
+
+17/9/19
+day off
+
+solved Eloquent JavaScript chapter Program Structure exercises:
+https://github.com/tacotoemeck/Eloquent-JavaScript-Exercises/blob/master/chessboard.js
+https://github.com/tacotoemeck/Eloquent-JavaScript-Exercises/blob/master/fizzBuzz.js
+https://github.com/tacotoemeck/Eloquent-JavaScript-Exercises/blob/master/looping%20ATriangle.js
+
+solved level 7 kata on codewars
+https://github.com/tacotoemeck/codewars-kyu7/blob/master/spacify.js
+
+solved solved Roman Numeral Converter from Telephone Number Validator at FreeCodeCamp
+https://github.com/tacotoemeck/JavaScript-Algorithms-and-Data-Structures-Projects/blob/master/TelephoneNumberValidator.js
+
+still ... solving Cash Register
+thought: spend about 8 hours on it today. Coudn't pass one of the test due to a bug somewhere. I will carry on working on it. Realistically I will need to start from the begining as the first atempt was too loop heavy. 
+
+read:
+Data structures - https://dev.to/banesag/javascript-data-structures-part-1-4eb5
+
+18/9 
+
+finally got my JavaScript Algorithms and Data Structures Projects: Cash Register to work and pass all test. Simple .reverse() did the magic here:
+https://github.com/tacotoemeck/JavaScript-Algorithms-and-Data-Structures-Projects/blob/master/Cash_Register.js
+
+completed first chapters 1.1 to 2.12 of javascript.info
+
